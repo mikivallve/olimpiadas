@@ -10,7 +10,7 @@ Para eso, hay que realizar una serie de actualizaciones.
 
 ## Levantar el sitio viejo - 5pts
 
-A partir de \*.zip en esta repo, levantar el sitio en dónde vamos a trabajar.
+A partir de Olimpiadas.zip en esta repo, levantar el sitio en dónde vamos a trabajar.
 
 #
 
@@ -86,7 +86,9 @@ Agregar Tokyo y Beijing a la línea de tiempo en la página de la historia de lo
 -   Separar el logo de las redes sociales
 -   Reemplazar> Parcial 2022 - Nombre Alumno - #estudiante por sus datos
 
-# Contacto -5pts
+#
+
+## Contacto - 5pts
 
 -   Cambiar la img de Tokio por una de Paris
 -   Agregar `no binario` y `prefiero no decir` como opción del formulario
